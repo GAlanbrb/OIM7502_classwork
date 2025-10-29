@@ -1,4 +1,4 @@
-# Plotly for Data Scientists — Intro + Widgets 
+# Plotly for Data Scientists (Intro + Widgets)
 
 ## Overview
 This repo demonstrates Plotly for interactive data visualization in Python:
